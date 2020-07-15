@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_1_100">Ведите число от 1 до 100</string>
+</resources>
